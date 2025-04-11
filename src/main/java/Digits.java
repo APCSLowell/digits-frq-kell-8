@@ -9,7 +9,7 @@ public class Digits
 	{ 
 	  digitList = new ArrayList <Integer>();
 	  int n = num;
-	  if (num = 0){
+	  if (num == 0){
 		  digitList.add(0);
 	  }
 	  while (n > 0){
